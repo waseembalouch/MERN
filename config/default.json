@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://waseem123:waseem123@waseemdev-brn8z.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ee0c583fd040069c32ad",
+  "githubSecret": "89aa9b8e6ca5d67a2d80e77b8242acd6f5ef875e"
 }
